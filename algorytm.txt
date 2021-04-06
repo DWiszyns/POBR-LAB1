@@ -1,0 +1,25 @@
+1.Balans bieli
+Temperatura 5000
+Odcień 100
+Nasycenie 100
+2.Barwa-Nasycenie-Jasność:
+Kanał czerwony
+Barwa 180
+Nasycenie 0
+Jasność 100
+kanał czerwony
+3.Przekształć w czarnobiały próg 237
+
+
+Krzesła
+1.Balans bieli
+Temperatura 9500
+Odcień 0
+Nasycenie 100
+2.Barwa-Nasycenie-Jasność:
+Kanał czerwony
+Barwa 180
+Nasycenie 0
+Jasność -100
+kanał czerwony
+3.Przekształć w czarnobiały próg 206
